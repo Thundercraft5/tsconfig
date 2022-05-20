@@ -7,7 +7,7 @@
 	"bugs": {
 		"url": "https://github.com/thundercraft5/tsconfig/issues"
 	},
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "TSConfig for myself",
 	"type": "module",
 	"engines": {
