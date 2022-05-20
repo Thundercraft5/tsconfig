@@ -1,0 +1,2 @@
+# tsconfig
+TSConfigs for myself.
