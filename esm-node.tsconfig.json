@@ -1,0 +1,10 @@
+{
+	"$schema": "https://json.schemastore.org/tsconfig",
+	"display": "ESM",
+	"extends": "./esm.tsconfig.json",
+	"compilerOptions": {
+		"module": "NodeNext",
+		"esModuleInterop": true,
+		"moduleResolution": "NodeNext"
+	}
+}

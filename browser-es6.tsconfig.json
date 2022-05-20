@@ -1,0 +1,8 @@
+{
+	"$schema": "https://json.schemastore.org/tsconfig",
+	"display": "Browser ES6",
+	"extends": "./browser.tsconfig.json",
+	"compilerOptions": {
+		"target": "ES6"
+	}
+}

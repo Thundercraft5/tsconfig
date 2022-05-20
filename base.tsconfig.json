@@ -1,0 +1,26 @@
+{
+	"compilerOptions": {
+		"outDir": "dist",
+		"sourceMap": true,
+		"preserveSymlinks": true,
+		"strict": true,
+		"strictPropertyInitialization": false,
+		"jsx": "preserve",
+		"incremental": true,
+		"esModuleInterop": true,
+		"noUncheckedIndexedAccess": true,
+		"noPropertyAccessFromIndexSignature": true,
+		"exactOptionalPropertyTypes": true
+	},
+	"include": [
+		"**/*.js",
+		"**/*.ts",
+		"**/*.tsx",
+		"**/*.mts"
+	],
+	"exclude": [
+		"node_modules",
+		"./dist/**",
+		"./out/**"
+	]
+}

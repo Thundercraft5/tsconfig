@@ -1,0 +1,17 @@
+{
+	"$schema": "https://json.schemastore.org/tsconfig",
+	"compilerOptions": {
+		"lib": [
+			"ES2021",
+			"ESNext",
+			"DOM",
+			"DOM.Iterable"
+		],
+		"module": "AMD",
+		"moduleResolution": "node",
+		"strict": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"useDefineForClassFields": true
+	}
+}

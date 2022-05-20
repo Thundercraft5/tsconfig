@@ -1,0 +1,14 @@
+{
+	"$schema": "https://json.schemastore.org/tsconfig",
+	"display": "Node 16",
+	"extends": "./esm-node.tsconfig.json",
+	"compilerOptions": {
+		"lib": [
+			"es2021"
+		],
+		"module": "ES2020",
+		"target": "es2021",
+		"moduleResolution": "node",
+		"useDefineForClassFields": true
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"$schema": "https://json.schemastore.org/tsconfig",
+	"display": "ESM",
+	"extends": "./base.tsconfig.json",
+	"compilerOptions": {
+		"module": "es2022",
+		"esModuleInterop": true,
+		"moduleResolution": "Classic",
+		"allowSyntheticDefaultImports": true
+	}
+}

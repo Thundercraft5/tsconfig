@@ -1,0 +1,17 @@
+{
+	"$schema": "https://json.schemastore.org/tsconfig",
+	"display": "Node 18",
+	"extends": "./esm-node.tsconfig.json",
+	"compilerOptions": {
+		"lib": [
+			"ES2021",
+			"ESNext"
+		],
+		"module": "NodeNext",
+		"moduleResolution": "nodenext",
+		"target": "esnext",
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"useDefineForClassFields": true
+	}
+}

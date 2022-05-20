@@ -1,0 +1,19 @@
+{
+	"name": "@thundercraft5/tsconfig",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thundercraft5/tsconfig.git"
+	},
+	"bugs": {
+		"url": "https://github.com/thundercraft5/tsconfig/issues"
+	},
+	"version": "1.0.0",
+	"description": "TSConfig for myself",
+	"type": "module",
+	"engines": {
+		"node": "18x"
+	},
+	"scripts": {},
+	"author": "Thundercraft5",
+	"license": "MIT"
+}
