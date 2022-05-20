@@ -8,7 +8,7 @@
 			"DOM.Iterable"
 		],
 		"module": "AMD",
-		"moduleResolution": "node",
+		"moduleResolution": "Node16",
 		"strict": true,
 		"esModuleInterop": true,
 		"skipLibCheck": true,

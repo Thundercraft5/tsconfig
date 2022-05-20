@@ -5,6 +5,6 @@
 	"compilerOptions": {
 		"module": "NodeNext",
 		"esModuleInterop": true,
-		"moduleResolution": "NodeNext"
+		"moduleResolution": "node"
 	}
 }
