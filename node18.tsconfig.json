@@ -8,7 +8,7 @@
 			"ESNext"
 		],
 		"module": "NodeNext",
-		"moduleResolution": "nodenext",
+		"moduleResolution": "node",
 		"target": "esnext",
 		"esModuleInterop": true,
 		"skipLibCheck": true,
