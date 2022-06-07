@@ -1,0 +1,14 @@
+{
+	"$schema": "https://json.schemastore.org/tsconfig",
+	"display": "Node 18 Declarations",
+	"extends": "./node-18.tsconfig.json",
+	"compilerOptions": {
+		"declarationDir": "dist",
+		"declarationMap": true,
+		"declaration": true,
+		"emitDeclarationOnly": true
+	},
+	"exclude": [
+		"dist/**"
+	]
+}

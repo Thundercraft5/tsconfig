@@ -1,0 +1,9 @@
+{
+	"$schema": "https://json.schemastore.org/tsconfig",
+	"display": "Node 18 Build",
+	"extends": "./node18-decl.tsconfig.json",
+	"compilerOptions": {
+		"outDir": "dist",
+		"emitDeclarationOnly": false
+	}
+}

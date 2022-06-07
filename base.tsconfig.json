@@ -1,7 +1,9 @@
 {
+	"$schema": "https://json.schemastore.org/tsconfig",
 	"compilerOptions": {
 		"outDir": "dist",
 		"sourceMap": true,
+		"skipLibCheck": false,
 		"preserveSymlinks": true,
 		"strict": true,
 		"strictPropertyInitialization": false,

@@ -9,6 +9,8 @@ TSConfigs for myself.
 	* `node16` (ESM, ES2021)
 	* `node17` (ESM, ES2022)
 	* `node18` (ESM, ESNext)
+    	* `node18-decl` (ESM, ESNext, emits declarations only to ./dist) 
+    	* `node18-build` (ESM, ESNext, emits declarations & js to ./dist) 
 * Browser (All AMD)
     * `browser`
     * `browser-es5` (ES5)
