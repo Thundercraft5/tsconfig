@@ -5,6 +5,7 @@
 		"sourceMap": true,
 		"skipLibCheck": false,
 		"preserveSymlinks": true,
+		"inlineSources": true,
 		"strict": true,
 		"strictPropertyInitialization": false,
 		"jsx": "preserve",
@@ -12,8 +13,17 @@
 		"esModuleInterop": true,
 		"noUncheckedIndexedAccess": true,
 		"noPropertyAccessFromIndexSignature": true,
-		"exactOptionalPropertyTypes": true
+		"exactOptionalPropertyTypes": true,
+		"plugins": [
+			{
+				"name": "typescript-eslint-language-service"
+			}
+		]
 	},
+	"typeAcquisition": {
+		"enable": true
+	},
+	"compileOnSave": true,
 	"include": [
 		"**/*.js",
 		"**/*.ts",

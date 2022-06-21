@@ -6,5 +6,11 @@
 		"module": "NodeNext",
 		"esModuleInterop": true,
 		"moduleResolution": "node"
+	},
+	"ts-node": {
+		"esm": true,
+		"experimentalReplAwait": true,
+		"experimentalResolverFeatures": true,
+		"pretty": true
 	}
 }
