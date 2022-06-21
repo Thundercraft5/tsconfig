@@ -7,7 +7,7 @@
 	"bugs": {
 		"url": "https://github.com/thundercraft5/tsconfig/issues"
 	},
-	"version": "1.0.7",
+	"version": "1.1.0",
 	"description": "TSConfig for myself",
 	"type": "module",
 	"engines": {
@@ -17,6 +17,7 @@
 	"author": "Thundercraft5",
 	"license": "MIT",
 	"devDependencies": {
-		"typescript": "4.8.0-dev.20220520"
+		"typescript": "4.8.0-dev.20220520",
+		"typescript-eslint-language-service": "5.0.0"
 	}
 }
