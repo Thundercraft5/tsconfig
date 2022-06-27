@@ -11,6 +11,9 @@
 		"esm": true,
 		"experimentalReplAwait": true,
 		"experimentalSpecifierResolution": "node",
-		"pretty": true
+		"pretty": true,
+		"compilerOptions": {
+			"isolatedModules": false
+		}
 	}
 }
