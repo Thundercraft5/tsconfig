@@ -4,6 +4,8 @@
 		"outDir": "dist",
 		"sourceMap": true,
 		"skipLibCheck": false,
+		"verbatimModuleSyntax": true,
+		"preserveValueImports": false,
 		"preserveSymlinks": true,
 		"inlineSources": true,
 		"strict": true,

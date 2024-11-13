@@ -3,7 +3,7 @@
 	"display": "ESM",
 	"extends": "./base.tsconfig.json",
 	"compilerOptions": {
-		"module": "es2022",
+		"module": "ES2022",
 		"esModuleInterop": true,
 		"moduleResolution": "node",
 		"allowSyntheticDefaultImports": true,
