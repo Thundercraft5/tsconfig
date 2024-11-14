@@ -1,6 +1,6 @@
 ---
 Created: 20[[24-04-13]]T10:17
-Edited: 2024-10-29T17:32
+Edited: 2024-11-13T19:15
 ---
 # tsconfig
 TSConfigs for myself.
@@ -15,6 +15,7 @@ TSConfigs for myself.
 	* `node18` (ESM, ESNext)
     	* `node18-decl` (ESM, ESNext, emits declarations only to ./dist) 
     	* `node18-build` (ESM, ESNext, emits declarations & js to ./dist) 
+	* `node-next` (ESM, ESNext, `bundler` module resolution)
 * Browser (All AMD)
     * `browser`
     * `browser-es5` (ES5)
