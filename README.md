@@ -1,7 +1,3 @@
----
-Created: 20[[24-04-13]]T10:17
-Edited: 2024-11-13T19:15
----
 # tsconfig
 TSConfigs for myself.
 
