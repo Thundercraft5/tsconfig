@@ -15,6 +15,7 @@ TSConfigs for myself.
 	* `node18` (ESM, ESNext)
     	* `node18-decl` (ESM, ESNext, emits declarations only to ./dist) 
     	* `node18-build` (ESM, ESNext, emits declarations & js to ./dist) 
+* 	* `node22` (ESM, ESNext)
 	* `node-next` (ESM, ESNext, `bundler` module resolution)
 * Browser (All AMD)
     * `browser`

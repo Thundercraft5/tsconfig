@@ -2,6 +2,8 @@
 	"$schema": "https://json.schemastore.org/tsconfig",
 	"compilerOptions": {
 		"outDir": "dist",
+		"allowArbitraryExtensions": true,
+		"allowImportingTsExtensions": true,
 		"sourceMap": true,
 		"skipLibCheck": false,
 		"verbatimModuleSyntax": true,
