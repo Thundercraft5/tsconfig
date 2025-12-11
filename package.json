@@ -2,7 +2,7 @@
 	"name": "@thundercraft5/tsconfig",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/thundercraft5/tsconfig.git"
+		"url": "git+https://github.com/thundercraft5/tsconfig.git"
 	},
 	"bugs": {
 		"url": "https://github.com/thundercraft5/tsconfig/issues"
